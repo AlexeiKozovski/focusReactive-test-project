@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  return <div className="App">Hello EvenBet!</div>;
+  return <div className="App">Hello FocusReactive!</div>;
 }
 
 export default App;
